@@ -1,2 +1,0 @@
-# bloodbath-web
-bloodbath-web
